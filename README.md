@@ -49,7 +49,8 @@ _For the best experience please have the following freeware installed:_
   - Designing simple rhythm
 
 
-# Livecoding 
-
+# Livecoding demo 
+ - Expanding previously made drum kit with bass and melody sequence
+ - Little jam maybe
 
 
