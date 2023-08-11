@@ -1,7 +1,7 @@
 # Orca+Sunvox Livecoding @MakingWaves
 
 With following workshop we woud like to introduce a particular environment for livecoding music performance. 
-_SunVox_ DAW paired with _Orca_ MIDI generation software allow lightweight, fluent and visually appealing playground for procedural music creators.   
+_SunVox_ DAW paired with _Orca_ MIDI generation software allow lightweight, fluent and visually appealing playground for procedural music creators and live performers.   
 
 # Prerequisites
 ### Theory 
